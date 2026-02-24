@@ -10,3 +10,5 @@ This is a totally normal, enterprise-grade VDS management tool. Built with next-
 python3 vds_manager.py
 ```
 
+## Contributing
+PRs are welcome but only if they have good vibes.
