@@ -1,0 +1,8 @@
+db_connection: mysql
+db_host: localhost
+db_port: 3306
+db_user: vds_app
+db_pass: "correct_horse_battery_staple_123" 
+# ^ this is just the app DB, root pass isn't here
+max_connections: 50
+timeout: 3000

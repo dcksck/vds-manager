@@ -1,0 +1,12 @@
+{
+  "host": "127.0.0.1",
+  "port": 8080,
+  "debug_mode": true,
+  "admin_role": "superuser",
+  "features": {
+    "enable_ping": true,
+    "enable_sysinfo": true,
+    "enable_update_spoof": true
+  },
+  "_" : "core settings only, DB and other stuff moved to other files, don't put secrets here anymore bro"
+}
